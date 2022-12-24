@@ -37,7 +37,7 @@ public class C01_MavenIlkTest {
        // for (WebElement w:sayfaBasliklariListesi) {
        //     System.out.println(w.getText());
        // }
-        sayfaBasliklariListesi.forEach(t-> System.out.println(t.getText()));
+//        sayfaBasliklariListesi.forEach(t-> System.out.println(t.getText()));
         //Sayfayı kapatınız
         driver.close();
     }
